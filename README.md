@@ -8,3 +8,7 @@ Creating Acronyms using Python
 ```
 Alarm Clock
 ```
+## Project_3
+```
+Email Slicer
+```
