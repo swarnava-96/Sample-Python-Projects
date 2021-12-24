@@ -29,5 +29,10 @@ Shopping bill calculator
 ```
 Currency converter: converts INR to other currencies.
 ```
+## Project_8
+```
+Automatic Files Assembler
+```
+
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
